@@ -1,0 +1,21 @@
+[proxy]
+## enable=0 关闭代理,enable=1打开代理
+enable= 1
+## 使用http代理
+http_proxy =
+## 使用socks5代理，如127.0.0.1:9137
+socks5 = 127.0.0.1:9137
+
+[website]
+## 默认地址: http://91porn.com/,如果是其他地址，请修改下面参数
+web_site= http://91porn.com
+
+[download]
+## 下载文件夹名称
+dir_name= 91videos
+
+## 下视频页数,如page_num=3，则表从 page=1,page=2, 到page=3结束
+## 每页20个视频 X 3 = 60个视频
+## http://91porn.com/video.php?category=rf&page=3
+##
+page_num= 3
