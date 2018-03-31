@@ -1,6 +1,6 @@
 [proxy]
 ## enable=0 关闭代理,enable=1打开代理
-enable= 1
+enable= 0
 ## 使用http代理
 http_proxy =
 ## 使用socks5代理，如127.0.0.1:9137
