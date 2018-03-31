@@ -2,4 +2,4 @@ beautifulsoup4==4.6.0
 PySocks==1.6.8
 requests==2.18.4
 urllib3==1.22
-
+html5lib==0.999999999
