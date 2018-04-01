@@ -13,3 +13,20 @@
 4. 执行 python start.py 即可以进行下载
 
 下载完成后保存在 91videos 目录
+
+
+
+代理设置:
+
+[proxy]
+#enable=0 关闭代理,enable=1打开代理
+
+enable= 0
+
+#使用http代理
+
+http_proxy =
+
+#使用socks5代理，如127.0.0.1:9137
+
+socks5 = 127.0.0.1:9137
