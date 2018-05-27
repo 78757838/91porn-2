@@ -8,7 +8,7 @@
 2. git clone https://github.com/depfish/91porn.git
 
 3. 安装依赖
-   pip3 install < requirements.txt
+   pip3 install -r requirements.txt
 
 4. 执行 python start.py 即可以进行下载
 
